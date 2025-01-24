@@ -1,6 +1,8 @@
 # Periodic Table Explorer
 
-**Periodic Table Explorer** is an interactive Java console application designed to help users explore, search, and test their knowledge of the periodic table. This project was developed as part of my **IB Computer Science Internal Assessment (IA)** for the **Standard Level (SL)** course.
+**Periodic Table Explorer** is an interactive Java console application designed to help users explore, search, and test their knowledge of the periodic table. I developed this project in my junior year of high school (11th grade) during Spring 2023 as part of my **IB Computer Science Internal Assessment (IA)** for the **Standard Level (SL)** course.
+
+My class was the first at our school to take IB Computer Science, making us the "test group." As the pilot group, we faced challenges such as limited resources and preparation time for both students and our teacher. Despite these challenges, I earned an **A** in the class and achieved the highest score in the class—a **6/7** on the IB Computer Science SL exam.
 
 ## About the Project
 

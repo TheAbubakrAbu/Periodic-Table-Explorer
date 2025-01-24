@@ -4,6 +4,8 @@
 
 My class was the first at our school to take IB Computer Science, making us the "test group." As the pilot group, we faced challenges such as limited resources and preparation time for both students and our teacher. Despite these challenges, I earned an **A** in the class and achieved the highest score in the class—a **6/7** on the IB Computer Science SL exam.
 
+**[Try the Periodic Table Explorer on Coding Rooms](https://app.codingrooms.com/w/Yxexan1LM35u)**
+
 ## About the Project
 
 The project addresses a challenge faced by high school chemistry students who struggle to memorize elements of the periodic table, particularly after features on popular platforms like Quizlet became paywalled. This application provides a free, accessible tool that enables users to:
